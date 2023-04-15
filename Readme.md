@@ -3,15 +3,15 @@
 
 Key Set pagination mongoose plugin developed for data pagination
 
-[![npm version](https://badge.fury.io/js/mongoose-keyset-pagination.svg)](https://www.npmjs.com/package/mongoose-keyset-pagination)
+[![npm version](https://badge.fury.io/js/mongoose-keyset-paginate.svg)](https://www.npmjs.com/package/mongoose-keyset-paginate)
 
 </div>
 
 # Installation
 
-Use the package manager [npm](npmjs.com/package/mongoose-keyset-pagination) to install:
+Use the package manager [npm](npmjs.com/package/mongoose-keyset-paginate) to install:
 ```bash
-npm i mongoose-keyset-pagination
+npm i mongoose-keyset-paginate
 ```
 
 # Usage
